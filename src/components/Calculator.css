@@ -10,7 +10,7 @@ body {
 
 button {
   appearance: none;
-  border: none;
+  border-color: #d3d3d3;
   outline: none;
   color: #000;
   font-size: 20px;
@@ -26,7 +26,7 @@ button {
 
 .display {
   background-color: #858694;
-  width: 65.4%;
+  width: 64.9%;
   color: #fff;
   margin-left: 12px;
 }
