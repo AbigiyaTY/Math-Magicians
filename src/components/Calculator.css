@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+button {
+  appearance: none;
+  border-color: #d3d3d3;
+  outline: none;
+  color: #000;
+  font-size: 20px;
+  padding: 16px;
+  cursor: pointer;
+  transition: 0.4s;
+  background-color: #e0e0e0;
+}
+
+.orange {
+  background-color: #f5913e;
+}
+
+.display {
+  background-color: #858694;
+  width: 65.4%;
+  color: #fff;
+  margin-left: 12px;
+}
+
+span {
+  padding-left: 100%;
+  font-size: 20px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
