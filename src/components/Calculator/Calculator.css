@@ -26,9 +26,9 @@ button {
 
 .display {
   background-color: #858694;
-  width: 65.4%;
+  width: 64.3%;
   color: #fff;
-  margin-left: 12px;
+  margin-left: 10px;
 }
 
 span {
@@ -38,4 +38,8 @@ span {
 
 button:hover {
   opacity: 0.9;
+}
+
+.calcTitle {
+  margin-left: -280px;
 }
