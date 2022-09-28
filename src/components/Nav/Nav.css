@@ -1,0 +1,32 @@
+li {
+  list-style: none;
+}
+
+.Nav {
+  margin-left: -300px;
+  width: 200%;
+  margin-top: -13%;
+}
+
+li a {
+  text-decoration: none;
+  color: #bd93f9;
+  font-size: 20px;
+}
+
+li a:hover {
+  border: solid 3px #fff;
+  background-color: #50fa7b;
+  color: #000;
+}
+
+.titleMath {
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #bd93f9;
+}
+
+.linkDis {
+  padding-right: 43% !important;
+}
